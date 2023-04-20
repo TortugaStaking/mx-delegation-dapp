@@ -106,7 +106,7 @@ export const Unlock = () => {
         </div>
 
         <strong className={styles.heading}>
-          MultiversX Delegation Dashboard
+          MultiversX Delegation Dashboard by Tortuga Staking
         </strong>
 
         <div className={styles.description}>
